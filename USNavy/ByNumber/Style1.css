@@ -1,0 +1,22 @@
+header {
+		font-size: 25px;
+		font-family: "Times New Roman" serif;
+	}
+	ol {
+		font-size: 16px;
+	}
+	body {
+		background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?cs=srgb&dl=pexels-henry-%26-co-1939485.jpg&fm=jpg);
+		background-attachment: fixed;
+	}
+	#a {
+		list-style-type: disc;
+	}
+	#b {
+		list-style-type: circle;
+	}
+	.bottom {
+		font-family: Times New Roman;
+		
+	}
+	
